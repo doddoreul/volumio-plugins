@@ -142,6 +142,24 @@
 						}
 					],
 					"updated": "14-10-2017"
+				},
+				{
+					"prettyName": "bullshit-button",
+					"icon": "fa-lightbulb-o",
+					"name": "bullshit-button",
+					"version": "1.0.0",
+					"url": "http://volumio.github.io/volumio-plugins/plugins/volumio/armhf/miscellanea/bullshit-button/bullshit-button.zip",
+					"license": "ISC",
+					"description": "bullshit-button",
+					"details": "",
+					"author": "A4C Team",
+					"screenshots": [
+						{
+							"image": "",
+							"thumb": ""
+						}
+					],
+					"updated": "18-12-2017"
 				}
 			]
 		},
